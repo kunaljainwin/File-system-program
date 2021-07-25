@@ -1,2 +1,2 @@
 # File-system-program
-needs improvements
+A c++ program to implement Rom's read and write functions using linked array
